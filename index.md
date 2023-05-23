@@ -1,4 +1,9 @@
 ---
+title: "MY BLOG"
+date: 2023-05-23
+---
+
+---
      title : blog
      author : TINO.S N
 ---
